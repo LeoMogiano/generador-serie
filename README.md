@@ -38,11 +38,11 @@ The project is structured following the MVC pattern:
 
 *Dashboard*
 
-<img loading="lazy" width="90%" src="./screenshots/s1.png" alt="Dashboard" />
+<img loading="lazy" width="90%" src="./screenshots/s1.jpg" alt="Dashboard" />
 
 *Dynamic Diagram*
 
-<img loading="lazy" width="90%" src="./screenshots/s2.png" alt="Diagram" />
+<img loading="lazy" width="90%" src="./screenshots/s2.jpg" alt="Diagram" />
 
 ## Contribution
 
