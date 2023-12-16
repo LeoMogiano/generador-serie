@@ -6,7 +6,7 @@
 
   Cualquier duda o comentario, favor de contactarme por Facebook, LinkedIn o Correo Electrónico.
 
-  ** Espero sea de tu agrado y puedas darnos una estrella :star2: :) **
+  ** Espero sea de tu agrado y puedas darnos una estrella :star2:  **
 
 
   Leo Mogiano - leomogiano@outlook.com
