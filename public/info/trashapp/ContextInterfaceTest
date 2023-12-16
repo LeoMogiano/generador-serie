@@ -1,6 +1,0 @@
-<?php
-
-interface ContextInterfaceXD 
-{
-    public function conversionNumerica(int $num, string $base): void;
-}
