@@ -8,7 +8,7 @@ It was made with design patterns which are template method, proxy control-access
 
 ## Features
 
-- ** Generate N series of triangular and power 10 numbers.**
+- **Generate N series of triangular and power 10 numbers.**
 
 ## Project Structure
 
