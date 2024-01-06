@@ -4,6 +4,8 @@ This is a web application that generate triangualar, power 10 series.
 
 It was made with design patterns which are template method, proxy control-access and strategy.
 
+[English](./README.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [日本語](./README.jp.md)
+
 ## Features
 
 - ** Generate N series of triangular and power 10 numbers. **
