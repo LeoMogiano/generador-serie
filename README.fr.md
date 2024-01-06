@@ -40,11 +40,15 @@ Le projet suit la structure du modèle MVC :
 
 *Tableau de Bord*
 
-<img loading="lazy" width="90%" src="./screenshots/s1.jpg" alt="Tableau de Bord" />
+<p align="center">
+    <img loading="lazy" width="90%" src="./screenshots/s1.jpg" alt="Tableau de Bord" />
+</p>
 
 *Diagramme Dynamique*
 
-<img loading="lazy" width="90%" src="./screenshots/s2.jpg" alt="Diagramme" />
+<p align="center">
+    <img loading="lazy" width="90%" src="./screenshots/s2.jpg" alt="Diagramme" />
+</p>
 
 ## Contribution
 

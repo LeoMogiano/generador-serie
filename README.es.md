@@ -40,11 +40,15 @@ El proyecto sigue la estructura del patrón MVC:
 
 *Tablero*
 
-<img loading="lazy" width="90%" src="./screenshots/s1.jpg" alt="Tablero" />
+<p align="center">
+    <img loading="lazy" width="90%" src="./screenshots/s1.jpg" alt="Tablero" />
+</p>
 
 *Diagrama Dinámico*
 
-<img loading="lazy" width="90%" src="./screenshots/s2.jpg" alt="Diagrama" />
+<p align="center">
+    <img loading="lazy" width="90%" src="./screenshots/s2.jpg" alt="Diagrama" />
+</p>
 
 ## Contribución
 
